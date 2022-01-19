@@ -1,3 +1,3 @@
 # Jyoti Adusumilli
 
-<img src="https://github.com/Jay-Adusumilli/Jay-Adusumilli.github.io/blob/main/assests/images/jay1.jpg" alt="photo" style="height: 500px; width:500px;"/>
+<img src="https://github.com/Jay-Adusumilli/Jay-Adusumilli.github.io/blob/main/assests/images/jay1.jpg" alt="photo" style="height: 2320px; width:362px;"/>
