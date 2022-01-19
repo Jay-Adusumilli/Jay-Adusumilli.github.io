@@ -1,7 +1,6 @@
 # Jyoti Adusumilli
 
-![Photo](https://i.ibb.co/KsFVNgK/jay1.jpg)
-
+![Photo](https://i.ibb.co/TYTNnyT/small.jpg)
 
 # [Resume]
 # [LinkedIn]
