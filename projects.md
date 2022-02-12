@@ -1,6 +1,6 @@
 # Projects
 
 
-| [Main](index.md)| [About](about.md) | [Links](links.md) |
+| [Main](index.md) | [About](about.md) | [Links](links.md) |
 | :--- | :--- | :--- |
 
