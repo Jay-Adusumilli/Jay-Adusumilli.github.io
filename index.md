@@ -1,9 +1,10 @@
 # Jay Adusumilli
 
-| [Projects](projects.md)| [About](about.md) | [Links](links.md) |
+
+| [Projects](projects.md) | [About](about.md) | [Links](links.md) |
 | :--- | :--- | :--- |
 
-#
+
 ![Photo](https://i.ibb.co/TYTNnyT/small.jpg)
 
 ### Hello!
