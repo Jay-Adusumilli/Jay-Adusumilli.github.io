@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="https://i.ibb.co/TYTNnyT/small.jpg" />
 </p>
 
 ## Hello!
