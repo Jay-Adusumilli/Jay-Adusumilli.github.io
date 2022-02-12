@@ -1,6 +1,5 @@
 # Important Links
 
-
 | [Main](index.md)| [Projects](projects.md) | [About](about.md) |
 | :--- | :--- | :--- |
 
