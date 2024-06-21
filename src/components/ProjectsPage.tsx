@@ -1,6 +1,6 @@
 // The projects page.
 
-const Projects = () => {
+const ProjectsPage = () => {
   return (
     <>
       <div>
@@ -10,4 +10,4 @@ const Projects = () => {
   );
 };
 
-export default Projects;
+export default ProjectsPage;

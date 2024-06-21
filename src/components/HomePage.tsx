@@ -1,6 +1,6 @@
 // The home page.
 
-const Home = () => {
+const HomePage = () => {
   return (
     <>
       <div style={{ maxWidth: "800px", margin: "10px auto" }}>
@@ -31,4 +31,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default HomePage;

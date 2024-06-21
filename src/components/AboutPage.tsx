@@ -1,6 +1,6 @@
 // The about page.
 
-const About = () => {
+const AboutPage = () => {
   return (
     <>
       <div style={{ maxWidth: "80%", margin: "1px auto", textAlign: "left" }}>
@@ -22,4 +22,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default AboutPage;

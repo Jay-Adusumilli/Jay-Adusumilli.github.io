@@ -1,6 +1,6 @@
 // The links page.
 
-const Links = () => {
+const LinksPage = () => {
   return (
     <>
       <div style={{ maxWidth: "80%", margin: "1px auto", textAlign: "left" }}>
@@ -20,4 +20,4 @@ const Links = () => {
   );
 };
 
-export default Links;
+export default LinksPage;
